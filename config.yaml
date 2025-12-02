@@ -1,0 +1,6 @@
+author: "U Ingar SOE + Grok"
+emoji: "Counter Report"
+language: my          # my = Burmese, en = English
+sound: true
+auto_open_pdf: true
+backup_reports: true
